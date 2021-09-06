@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "197813328223",
+    "firebase_url": "https://dvtangtuongtac.firebaseio.com",
+    "project_id": "dvtangtuongtac",
+    "storage_bucket": "dvtangtuongtac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197813328223:android:cc04aaab524000f1183eea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gdrive_nam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197813328223-hh7cch0k9gbp1vreap1ogvqsvgvrcl0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_gdrive_nam",
+            "certificate_hash": "37d98524a80f94d5d805b1173b74a43521c33ac6"
+          }
+        },
+        {
+          "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjyWmOg5MZXkQA2_-bte_UN_kAuQrebA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197813328223-dm5ll5fl00ccncgp61urf9teftir1hvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dvtangtuongtac.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197813328223:android:0bd25ff0c97a38aa183eea",
+        "android_client_info": {
+          "package_name": "com.google.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197813328223-9vlppm072lv6olruap74u8c281pkf6ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.login",
+            "certificate_hash": "37d98524a80f94d5d805b1173b74a43521c33ac6"
+          }
+        },
+        {
+          "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjyWmOg5MZXkQA2_-bte_UN_kAuQrebA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197813328223-dm5ll5fl00ccncgp61urf9teftir1hvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dvtangtuongtac.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197813328223:android:7d6dfee6e34ff509183eea",
+        "android_client_info": {
+          "package_name": "dvtangtuongtac.givay.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197813328223-jnsu71d4gq16f6g6nt1dejpc2bord98h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dvtangtuongtac.givay.com",
+            "certificate_hash": "a6c2ac2f21abfdfeaf587c3223560cdca43e4f39"
+          }
+        },
+        {
+          "client_id": "197813328223-utvg2vh89g3a5ed37jsce7pniesonmg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dvtangtuongtac.givay.com",
+            "certificate_hash": "eaf601752ec7633514513a22e0e1c989fcdb051b"
+          }
+        },
+        {
+          "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjyWmOg5MZXkQA2_-bte_UN_kAuQrebA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197813328223-br0gcujfhbsg07n7gcvsr7kcqjeqt3di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197813328223-dm5ll5fl00ccncgp61urf9teftir1hvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dvtangtuongtac.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
